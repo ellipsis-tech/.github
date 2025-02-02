@@ -12,7 +12,7 @@
 - **Networking Sessions**: Collaborations with industry partners to provide opportunities for students to engage in meaningful interactions.
 - **Company Visits**: Organized visits to provide students with a greater understanding of IT-related professions in real operating environments.
 - **Workshops**: Enriching sessions to introduce new and fundamental concepts to assist students in their learning.
-- **Open Source**: Helping SMU students learn more about software engineering beyond the classroom and build a community of like-minded individuals.
+- [**Open Source**](https://ellipsis.computing.smu.edu.sg/open-source): Helping SMU students learn more about software engineering beyond the classroom and build a community of like-minded individuals. Open Source Projects will be under another Github Organization [Codie Codes](https://github.com/codie-codes).
 
 ## Contact Us
 
